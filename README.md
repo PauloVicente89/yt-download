@@ -1,4 +1,4 @@
 # yt-download
-Programa criado para fazer download de vídeos do youtube.
+Program created to download youtube videos.
 
-** NÃO ESQUECER DE MUDAR O DIRETORIO NO CÓDIGO **
+** DO NOT FORGET TO CHANGE THE DIRECTORY IN THE CODE **
