@@ -8,4 +8,4 @@ video = YouTube(url)
 stream = video.streams.get_highest_resolution()
 
 # baixando no diretorio escolhido
-stream.download(output_path = 'C:\\Users\\Paulo\\OneDrive\\Área de Trabalho') # PARA DIRECIONAR DIRETORIOS NO WINDOWS, UTILIZE DUAS BARRAS
+stream.download(output_path = 'C:\\Users\\...') # PARA DIRECIONAR DIRETORIOS NO WINDOWS, UTILIZE DUAS BARRAS
